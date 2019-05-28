@@ -12,4 +12,4 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## ElasticSearch 和 python
 
-+[ES简介和与python接口](https://cuiqingcai.com/6214.html)
++ [ES简介和与python接口](https://cuiqingcai.com/6214.html)
