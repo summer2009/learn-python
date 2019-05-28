@@ -7,3 +7,5 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 ## skill
 
 + [离线安装第三方包](https://blog.csdn.net/topswim/article/details/79236888)
+
++ [离线安装包](https://www.cnblogs.com/wangshuyi/p/9313797.html)
