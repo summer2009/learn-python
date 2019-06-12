@@ -8,6 +8,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [浅析python main函数](https://www.cnblogs.com/keguo/p/9760361.html)
 
++ [异常处理try-Except](https://www.jb51.net/article/157474.htm)
+
 ## skill
 
 + [离线安装第三方包](https://blog.csdn.net/topswim/article/details/79236888)
