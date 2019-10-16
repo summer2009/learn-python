@@ -21,3 +21,7 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 + [ES简介和与python接口](https://cuiqingcai.com/6214.html)
 
 + [Python 数据科学入门教程：Pandas](https://www.jianshu.com/p/d9774cf1fea5)
+
+## 其他
+
++[三视图分解和还原](https://www.xuexicn.com/archives/4197)
