@@ -24,4 +24,7 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## 其他
 
-+[三视图分解和还原](https://www.xuexicn.com/archives/4197)
++ [三视图分解和还原](https://www.xuexicn.com/archives/4197)
+
++ [python+opencv 测量摄像头到目标的距离](https://cloud.tencent.com/developer/news/4368)
+
