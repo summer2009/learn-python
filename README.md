@@ -30,3 +30,5 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [OpenCV 中的轮廓应用](https://zhuanlan.zhihu.com/p/77783347)
 
++ [python处理](https://www.yuanrenxue.com/tricks/python-process-pdf.html)
+
