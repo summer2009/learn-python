@@ -22,6 +22,11 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [Python 数据科学入门教程：Pandas](https://www.jianshu.com/p/d9774cf1fea5)
 
+
+## pdf
+
++ [pdfpdf格式分析-1](https://blog.csdn.net/steve_cui/article/details/81910632)
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
