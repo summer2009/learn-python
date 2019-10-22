@@ -9,8 +9,12 @@ from pdfminer.pdfdevice import PDFDevice
 from pdfminer.layout import LAParams, LTTextBox
 from pdfminer.converter import PDFPageAggregator
 
+
+filename = '2019h.pdf'
+num = 4
+
 # Open a PDF file.
-fp = open('2018.pdf', 'rb')
+fp = open(filename, 'rb')
 # Create a PDF parser object associated with the file object.
 parser = PDFParser(fp)
 # Create a PDF document object that stores the document structure.
@@ -37,6 +41,6 @@ for page in PDFPage.create_pages(document):
         if isinstance(x, LTTextBox):
             print(x.get_text().strip())
     print('numOfPage = ',numOfPage)    
-    tables = camelot.read_pdf('2018.pdf',str(numOfPage))
+    tables = camelot.read_pdf(filename,str(numOfPage))
     print('lenOfTables = ',len(tables))
     numOfPage = numOfPage + 1
