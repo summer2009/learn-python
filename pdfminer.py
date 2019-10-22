@@ -1,3 +1,4 @@
+import camelot
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfpage import PDFPage
@@ -6,6 +7,7 @@ from pdfminer.pdfinterp import PDFResourceManager
 from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.pdfdevice import PDFDevice
 from pdfminer.layout import LAParams, LTTextBox
+from pdfminer.converter import PDFPageAggregator
 
 # Open a PDF file.
 fp = open('2018.pdf', 'rb')
@@ -27,9 +29,14 @@ device = PDFPageAggregator(rsrcmgr, laparams=laparams)
 # Create a PDF interpreter object.
 interpreter = PDFPageInterpreter(rsrcmgr, device)
 # Process each page contained in the document.
+numOfPage = 1
 for page in PDFPage.create_pages(document):
     interpreter.process_page(page)
     layout = device.get_result()
     for x in layout:
         if isinstance(x, LTTextBox):
             print(x.get_text().strip())
+    print('numOfPage = ',numOfPage)    
+    tables = camelot.read_pdf('2018.pdf',str(numOfPage))
+    print('lenOfTables = ',len(tables))
+    numOfPage = numOfPage + 1
