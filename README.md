@@ -27,6 +27,10 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [pdfpdf格式分析-1](https://blog.csdn.net/steve_cui/article/details/81910632)
 
+## pandas
+
++[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
