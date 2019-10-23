@@ -22,6 +22,9 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [Python 数据科学入门教程：Pandas](https://www.jianshu.com/p/d9774cf1fea5)
 
+## word
+
++ [使用Python对word文档进行操作](https://blog.csdn.net/wcg541/article/details/100999756)
 
 ## pdf
 
