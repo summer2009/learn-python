@@ -26,6 +26,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [使用Python对word文档进行操作](https://blog.csdn.net/wcg541/article/details/100999756)
 
++[Python 操控 Word](https://www.jianshu.com/p/4af54a9b3576)
+
 ## pdf
 
 + [pdfpdf格式分析-1](https://blog.csdn.net/steve_cui/article/details/81910632)
