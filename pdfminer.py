@@ -1,4 +1,15 @@
 import camelot
+filename = '2016.pdf'
+num = 4
+tables = camelot.read_pdf(filename,str(num))
+print(len(tables))
+if len(tables)>0:
+    for table in tables:
+        print(table.df)
+
+
+
+import camelot
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfpage import PDFPage
