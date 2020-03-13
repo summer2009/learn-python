@@ -48,3 +48,5 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [python处理](https://www.yuanrenxue.com/tricks/python-process-pdf.html)
 
++ [python有限状态机应用](https://www.cnblogs.com/21207-iHome/p/6085334.html)
+
