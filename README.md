@@ -38,6 +38,12 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 +[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
 
+## WEB
+
++ [使用 Python 和 Flask 设计 RESTful API](http://www.pythondoc.com/flask-restful/first.html)
+
+
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
