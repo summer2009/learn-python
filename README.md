@@ -34,7 +34,7 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [深入学习python解析并读取PDF文件内容的方法](https://www.cnblogs.com/wj-1314/p/9429816.html)
 
-+ [python 给pdf加水印](http://www.aiuxian.com/article/p-1985272.html)
++ [python 给pdf加水印](https://www.csdn.net/gather_2e/MtjaIgysNzM3LWJsb2cO0O0O.html)
 
 + [PyPDF2 例子](https://www.programcreek.com/python/example/105483/PyPDF2)
 
