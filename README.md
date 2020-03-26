@@ -38,6 +38,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [PyPDF2 例子](https://www.programcreek.com/python/example/105483/PyPDF2)
 
++ [PyPDF2 编码问题 PyPDF2.utils.PdfReadError Illegal character in Name Object](https://blog.csdn.net/kmesky/article/details/102695520)
+
 ## pandas
 
 +[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
