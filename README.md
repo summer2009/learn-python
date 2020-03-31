@@ -40,6 +40,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [PyPDF2 编码问题 PyPDF2.utils.PdfReadError Illegal character in Name Object](https://blog.csdn.net/kmesky/article/details/102695520)
 
++ [python处理pdf全攻略](https://www.yuanrenxue.com/tricks/python-process-pdf.html)
+
 ## pandas
 
 +[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
@@ -57,8 +59,6 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 + [python+opencv 测量摄像头到目标的距离](https://cloud.tencent.com/developer/news/4368)
 
 + [OpenCV 中的轮廓应用](https://zhuanlan.zhihu.com/p/77783347)
-
-+ [python处理](https://www.yuanrenxue.com/tricks/python-process-pdf.html)
 
 + [python有限状态机应用](https://www.cnblogs.com/21207-iHome/p/6085334.html)
 
