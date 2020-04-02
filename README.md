@@ -42,6 +42,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [python处理pdf全攻略](https://www.yuanrenxue.com/tricks/python-process-pdf.html)
 
++ [中文分句]https://github.com/beifeng600/nlp_storeroom/blob/master/tools/%E5%88%86%E5%8F%A5/CutFile_ZH.py
+
 ## pandas
 
 +[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
