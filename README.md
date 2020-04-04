@@ -10,6 +10,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [异常处理try-Except](https://www.jb51.net/article/157474.htm)
 
++ [python @修饰符 使用](https://www.cnblogs.com/gdjlc/p/11182441.html)
+
 ## skill
 
 + [离线安装第三方包](https://blog.csdn.net/topswim/article/details/79236888)
