@@ -56,7 +56,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [使用 Python 和 Flask 设计 RESTful API](http://www.pythondoc.com/flask-restful/first.html)
 
-
+### Vue
+  + [Vue之单文件组件](https://www.cnblogs.com/NightTiger/p/10418845.html)
 
 ## 其他
 
