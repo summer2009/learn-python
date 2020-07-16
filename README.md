@@ -60,6 +60,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
   + [Vue之单文件组件](https://www.cnblogs.com/NightTiger/p/10418845.html)
   
   + [Vue 入门之组件化开发](https://www.cnblogs.com/NightTiger/p/10417729.html)
+  
+  + [Vue 11讲](https://www.jianshu.com/nb/23783223)
 
 ## 其他
 
