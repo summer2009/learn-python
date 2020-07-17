@@ -59,6 +59,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
   
   + [Flask Restful API权限管理设计与实现](https://www.jianshu.com/p/b78744bd463b)
   
+  + [Flask使用https](https://leiz2192.github.io/2019/10/04/Flask%E4%BD%BF%E7%94%A8https/)
+  
 + Vue
   + [Vue之单文件组件](https://www.cnblogs.com/NightTiger/p/10418845.html)
   
