@@ -70,7 +70,7 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## 数据库
 
-+ Flask-SQLAlchemy详解(https://www.jianshu.com/p/f7ba338016b8)
++ [Flask-SQLAlchemy详解](https://www.jianshu.com/p/f7ba338016b8)
 
 ## 其他
 
