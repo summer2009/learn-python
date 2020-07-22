@@ -70,6 +70,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## 数据库
 
++ [centos7mysql安装](https://www.jianshu.com/p/a04bd6348fa3)
+
 + [Flask-SQLAlchemy详解](https://www.jianshu.com/p/f7ba338016b8)
 
 + [Flask-SQLAlchemy的使用](https://www.jianshu.com/p/b729e84fae4f)
