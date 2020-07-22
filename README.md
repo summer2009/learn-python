@@ -68,6 +68,10 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
   
   + [Vue 11讲](https://www.jianshu.com/nb/23783223)
 
+## 数据库
+
++ Flask-SQLAlchemy详解(https://www.jianshu.com/p/f7ba338016b8)
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
