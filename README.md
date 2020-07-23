@@ -54,6 +54,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## WEB
 
++ fastAPI (**后端开发 强烈推荐**)
+
 + Flask
   + [使用 Python 和 Flask 设计 RESTful API](http://www.pythondoc.com/flask-restful/first.html)
   
