@@ -72,6 +72,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## 数据库
 
++ [数据库——主键、外键、索引](https://blog.csdn.net/panc_guizaijianchi/article/details/85072497?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
+
 + [centos7mysql安装](https://www.jianshu.com/p/a04bd6348fa3)
 
 + [centos8 下安装mysql80](https://www.cnblogs.com/ttrrpp/p/12173562.html)
