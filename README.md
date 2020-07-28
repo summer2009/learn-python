@@ -82,6 +82,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [Flask-SQLAlchemy的使用](https://www.jianshu.com/p/b729e84fae4f)
 
++ [SQLAlchemy : relationship](https://zhuanlan.zhihu.com/p/66090718)
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
