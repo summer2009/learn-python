@@ -84,6 +84,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [SQLAlchemy : relationship](https://zhuanlan.zhihu.com/p/66090718)
 
++ [alembic的使用](https://www.cnblogs.com/chnmig/p/10446346.html)
+
 ## 其他
 
 + [三视图分解和还原](https://www.xuexicn.com/archives/4197)
