@@ -46,11 +46,13 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [中文分句](https://github.com/beifeng600/nlp_storeroom/blob/master/tools/%E5%88%86%E5%8F%A5/CutFile_ZH.py)
 
-+[在Python里如何切分中文文本句子（分句）、英文文本分句（切分句子）](https://blog.csdn.net/qq_39839807/article/details/104206553?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
++ [在Python里如何切分中文文本句子（分句）、英文文本分句（切分句子）](https://blog.csdn.net/qq_39839807/article/details/104206553?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
 ## pandas
 
-+[python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
++ [python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
+
++ [Pandas之超好用的Groupby用法详解](https://zhuanlan.zhihu.com/p/101284491?utm_source=wechat_session)
 
 ## WEB
 
