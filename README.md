@@ -52,6 +52,8 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [python数据分析三剑客](https://www.cnblogs.com/peng104/p/10398490.html)
 
++ [Python数据分析：Pandas之DataFrame](https://zhuanlan.zhihu.com/p/136211023)
+
 + [Pandas之超好用的Groupby用法详解](https://zhuanlan.zhihu.com/p/101284491?utm_source=wechat_session)
 
 ## WEB
