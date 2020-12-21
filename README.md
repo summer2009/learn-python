@@ -56,6 +56,9 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 + [Pandas之超好用的Groupby用法详解](https://zhuanlan.zhihu.com/p/101284491?utm_source=wechat_session)
 
++ [pandas之分组groupby()的使用整理与总结](https://blog.csdn.net/FrankieHello/article/details/97272990)
+
+
 ## WEB
 
 + [fastAPI (**后端开发 强烈推荐**)](https://fastapi.tiangolo.com/zh/)
