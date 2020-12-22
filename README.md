@@ -32,7 +32,7 @@ python的简单易用，用户众多，网络效应使其成为NO.1 。不可回
 
 ## pdf
 
-+ [pdfpdf格式分析-1](https://blog.csdn.net/steve_cui/article/details/81910632)
++ [pdf格式分析-1](https://blog.csdn.net/steve_cui/article/details/81910632)
 
 + [深入学习python解析并读取PDF文件内容的方法](https://www.cnblogs.com/wj-1314/p/9429816.html)
 
